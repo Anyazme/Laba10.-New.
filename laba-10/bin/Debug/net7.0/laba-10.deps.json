@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "laba-10/1.0.0": {
+        "dependencies": {
+          "Laba10": "1.0.0"
+        },
+        "runtime": {
+          "laba-10.dll": {}
+        }
+      },
+      "Laba10/1.0.0": {
+        "runtime": {
+          "Laba10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laba-10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Laba10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
